@@ -1,3 +1,14 @@
+8.14 晚
+- [1] 实现一个苹果官网的磨砂效果navbar
+ 背景图固定
+ :before选择器（在开始之前执行，有点生命周期的味儿）
+ -webkit-filter:（css滤镜属性）blur(<number>px)模糊效果
+  filter:同上，一起用的
+   backdrop-filter
+  失败。听说支持的浏览器很少
+得到了一个半透明的navbar也不错 navbar设置  background: rgba(0, 0, 0, 0.25);
+
+
 website
 
 技术栈：vue3.0
