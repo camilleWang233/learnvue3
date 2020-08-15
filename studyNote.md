@@ -7,6 +7,9 @@
    backdrop-filter
   失败。听说支持的浏览器很少
 得到了一个半透明的navbar也不错 navbar设置  background: rgba(0, 0, 0, 0.25);
+  成功了成功了
+  backdrop-filter: saturate(180%) blur(20px);
+
 
 
 website
